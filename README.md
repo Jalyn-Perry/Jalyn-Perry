@@ -17,15 +17,13 @@ Hello! I'm **Jalyn Perry**, a passionate [Security Professional] with a love for
 
 ### Project 1:  Developing a multinomial Logistic regression model for classifying the severity of cybersecurity attacks
 - **Technologies Used**: Jupyter Notebook, Python3
-- **Link**: [GitHub/Live Demo]
 
 ### Project 2: Developing undetectable remote access tool, with the ability to bypass windows defender
 - **Technologies Used**: Python3
-- **Link**: [GitHub/Live Demo]
 
 ### Project 3: Port forwarding attack traffic to establish communication between a target network, and a separate attack host network
 - **Technologies Used**:  Plink.exe, SSH protocol, Proxifier.
-- **Link**: [GitHub/Live Demo]
+
 
 ---
 
