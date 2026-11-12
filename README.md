@@ -6,7 +6,7 @@ Hello! I'm **Jalyn Perry**, a passionate [Security Professional] with a love for
 ---
 
 ## Skills
-- **Programming Languages**: Python, Java
+- **Programming Languages**: Python, Java, JavaScript, C#, C++, C
 - **Web Development**: HTML, CSS
 - **Tools & Technologies**: Rpivot, CrackMapExec
 - **Other Skills**: Data Analysis, Machine Learning
